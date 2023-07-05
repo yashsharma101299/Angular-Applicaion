@@ -1,0 +1,93 @@
+{
+    "questions": [{
+            "questionText": "Which one is java front-end framework?",
+            "options": [{
+                    "text": "Angular",
+                    "correct": true
+                },
+                {
+                    "text": "Spring"
+                },
+                {
+                    "text": "Hibernate"
+                },
+                {
+                    "text": "Struts"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which python librery is user in Machine-Learning?",
+            "options": [{
+                    "text": "Numpy"
+                },
+                {
+                    "text": "Pandas"
+                },
+                {
+                    "text": "MatplotLib"
+                },
+                {
+                    "text": "Tenser-flow",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What is Spring jpa used for?",
+            "options": [{
+                    "text": "to configure servlet"
+                },
+                {
+                    "text": "to do persistance operations",
+                    "correct": true
+                },
+                {
+                    "text": "to implement inheritance"
+                },
+                {
+                    "text": "to thread Synchronization"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "oops concept includes : ",
+            "options": [{
+                    "text": "Encapsulation"
+                },
+                {
+                    "text": "All of these",
+                    "correct": true
+                },
+                {
+                    "text": "Ploymorphism"
+                },
+                {
+                    "text": "Abstraction"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "In which of these does a class take parameters?",
+            "options": [{
+                    "text": "constructor",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}
